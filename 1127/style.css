@@ -97,6 +97,7 @@
     .icon{
         width:300px;
     }
+
 }
 
 
@@ -113,7 +114,7 @@
     
 }
 
-@media screen and (max-width: 600px){
+/* @media screen and (max-width: 600px){
     .main{
         width: 600px;
     }
@@ -151,4 +152,4 @@
         font-size: 15px;
         margin-left: 25px;
     }
-}
+} */
