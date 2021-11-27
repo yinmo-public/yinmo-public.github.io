@@ -113,6 +113,7 @@
     
 }
 
+/* For Pad */
 @media screen and (max-width: 600px){
     .main{
         width: 600px;
@@ -133,6 +134,7 @@
     } 
 }
 
+/* For Phone */
 @media screen and (max-width: 480px){
     .main{
         width: 480px;
@@ -141,7 +143,7 @@
         width: 100%;
     }
     .icon{
-        width:120px;
+        width:100px;
     }
     .logo{
         font-size:18px;
