@@ -143,11 +143,14 @@
         width: 100%;
     }
     .icon{
-        width:100px;
+        width:20%;
     }
     .logo{
         font-size:18px;
         padding-left: 15px;
+    }
+    .menu{
+        width:80%;
     }
     .menu ul li{
         font-size: 15px;
