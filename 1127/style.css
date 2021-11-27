@@ -5,6 +5,8 @@
 
 .main{
     width: 100%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .navbar{
@@ -69,6 +71,24 @@
     color: #000;
     transition: 0.4s ease-in-out;
 }
+
+.content{
+    padding-left: 150px;
+    /* background-color: green; */
+}
+
+h1{
+    font-family: "微軟正黑體";
+    margin-top: 20px;
+    font-size:35px;
+}
+
+h1:hover{
+    color:#2894FF;
+    transition: 0.3s ease;
+}
+
+
 
 
 
