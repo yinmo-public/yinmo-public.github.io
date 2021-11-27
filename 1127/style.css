@@ -110,6 +110,14 @@
     .icon{
         width:200px;
     }
+    .logo{
+        font-size:20px;
+        padding-left: 20px;
+    }
+    .menu ul li{
+        font-size: 18px;
+        margin-left: 50px;
+    } 
     
 }
 
