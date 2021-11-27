@@ -176,4 +176,7 @@ h1:hover{
         font-size: 15px;
         margin-left: 25px;
     }
+    h1{
+        font-size:30px;
+    }
 }
