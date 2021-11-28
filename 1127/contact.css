@@ -78,7 +78,107 @@
 
 }
 
+h1{
+    font-family: "微軟正黑體";
+    margin-top: 20px;
+    font-size:35px;
+}
+
+h1:hover{
+    color:#2894FF;
+    transition: 0.3s ease;
+}
+
 .footer{
     clear: both;
     text-align: center;
+}
+
+
+
+@media screen and (max-width: 1200px){
+    .main{
+        width: 1200px;
+    }
+    .navbar{
+        width: 100%;
+    }
+    .icon{
+        width:450px;
+    }
+}
+
+
+@media screen and (max-width: 992px){
+    .main{
+        width: 992px;
+    }
+    .navbar{
+        width: 100%;
+    }
+    .icon{
+        width:300px;
+    }
+}
+
+
+@media screen and (max-width: 768px){
+    .main{
+        width: 768px;
+    }
+    .navbar{
+        width: 100%;
+    } 
+    .icon{
+        width:200px;
+    }
+    
+}
+
+/* For Pad */
+@media screen and (max-width: 600px){
+    .main{
+        width: 600px;
+    }
+    .navbar{
+        width: 100%;
+    }
+    .icon{
+        width:150px;
+    }
+    .logo{
+        font-size:20px;
+        padding-left: 30px;
+    }
+    .menu ul li{
+        font-size: 18px;
+        margin-left: 50px;
+    } 
+}
+
+/* For Phone */
+@media screen and (max-width: 480px){
+    .main{
+        width: 480px;
+    }
+    .navbar{
+        width: 100%;
+    }
+    .icon{
+        width:28%;
+    }
+    .logo{
+        font-size:18px;
+        padding-left: 25px;
+    }
+    .menu{
+        width:70%;
+    }
+    .menu ul li{
+        font-size: 15px;
+        margin-left: 25px;
+    }
+    h1{
+        font-size:20px;
+    }
 }
