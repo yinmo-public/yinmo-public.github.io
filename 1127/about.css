@@ -241,6 +241,9 @@ h1:hover{
         width:60%;
         font-size:20px;
     }
+    .known{
+        font-size:35px;
+    }
     .skillbars{
         margin-top:15px;
         width: 100%;
