@@ -212,7 +212,7 @@ h1:hover{
         font-size:30px;
     }
     .content{
-        margin-top:-50px;
+        /* margin-top:-40px; */
         padding-left: 25px;
     }
     .profile{
