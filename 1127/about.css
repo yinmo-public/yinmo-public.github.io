@@ -216,11 +216,11 @@ h1:hover{
         padding-left: 25px;
     }
     .profile{
-        width: 30%;
+        width: 40%;
     }
-    /* .profile p{
+    .profile p{
         font-size:15px;
-    } */
+    }
     .skillbars{
         margin-top:15px;
         width: 100%;
