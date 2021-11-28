@@ -219,12 +219,12 @@ h1:hover{
         width: 40%;
     }
     .profile p{
-        font-size:15px;
+        font-size:18px;
     }
     .skillbars{
         margin-top:15px;
         width: 100%;
-        max-width: 300px;
+        max-width: 200px;
         float: left;
     }
 
